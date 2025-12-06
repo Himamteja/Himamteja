@@ -1,3 +1,4 @@
+
 <!-- 🌟 Animated Header Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+I'm+Himamteja+👋;Full+Stack+Java+Developer;Passionate+about+Web+Development;Always+learning+new+things!&center=true&size=25" />

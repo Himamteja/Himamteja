@@ -1,7 +1,7 @@
 
 <!-- 🌟 Animated Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+I'm+Himamteja+👋;Full+Stack+Java+Developer;Passionate+about+Web+Development;Always+learning+new+things!&center=true&size=25" />
+  <img src="https://readme-typing-svg.herokuapp.com/?size=25&duration=3000&pause=1000&width=600&lines=Hi+There!+I'm+Himamteja+👋;Full+Stack+Java+Developer;Passionate+about+Web+Development;Always+learning+new+things!&center=true&size=25" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Himamteja</h1>
